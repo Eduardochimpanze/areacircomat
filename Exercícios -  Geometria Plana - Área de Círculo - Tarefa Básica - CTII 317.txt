@@ -1,0 +1,112 @@
+Tarefa Básica - Geometria Plana - Área de Círculo - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+Comprimento de Circunferência = 2.pi.r = 2.3,14.1,5 = 9,42 km = Pista.
+
+Se para 6 km gasta 1 litro de combustível, quantos litros são gastos por volta(9,42 km)?
+
+6 - 1
+9,42 - x
+
+x.6 = 9,42.1
+
+x = 9,42/6 = 1,57 L gastos por volta
+
+Se foram gastos 120 litros, quer dizer que foram dadas 120/1,57 = 76,4 voltas = 76 voltas completas = Alternativa (C).
+
+Ex 02.
+
+Se r = d/2 e comprimento de circunferência = 2.pi.r
+
+r = 4/2 = 2
+
+C= 2.pi.2 = 4pi
+
+10 voltas = 4pi.10 =  40pi  = Alternativa (C).
+
+Ex 03.
+
+Também em .jpeg
+
+Se um quadrado está inscrito numa circunferência, sua diagonal será o diametro da mesma, e a partir disto descobrimos o lado do quadrado e, subsequentemente, sua área, que será subtraída da área do círculo:
+
+Área Circulo = pi.r² = 3,14 . 1² = 3,14
+
+Diagonal Quadrado = Diâmetro = 2
+
+d = l√2
+
+2 = l√2
+
+l = 2/√2
+
+Área do quadrado = l² = (2/√2)² = 4/2 = 2
+
+Área interna ao círculo e externa ao quadrado = Ac - Aq
+
+Ac - Aq = pi - 2 = Alternativa (D)
+ 
+
+Ex 04.
+
+Em .jpeg
+
+
+Ex 05.
+
+Razão = Ac1 / Cc2
+
+Ac1 = pi.r² = pi.10² = 100pi cm²
+
+Cc2 = 2pi.r = 2.pi.5 = 10pi cm
+
+Razão = 100pi/10 pi = 10 cm = Alternativa (C).
+
+
+Ex 06.
+
+Lado do quadrado(mm):
+
+Quantos vírus cabem numa fila de 10mm:
+
+÷0,02·10
+
+N=5000000 virus 
+
+Como os dois lados sao iguais, vamos ter um total de:
+
+N=5000000·5000000=25.10^10 vírus = Alternativa (C)
+
+Ex 07.
+
+
+Área do terreno= b*h= 40*25= 600
+
+Área da casa= (D*d)/2= 24*12/2= 144
+
+Área da piscina= (pi* r^2)= 3.14*16=50,24
+
+Área vestuário= L^2 = 3,5*3,5= 12,25
+
+Gramado= terreno - casa, piscina e vestuário
+
+G= 600-(144+50,24+12,25)
+
+G= 600- 206,49=393,51
+
+Gasto com o gramado: Regra de 3
+
+1m^2_________2,40
+
+393,51________×
+
+×= 393,51* 2.40
+
+×= 944,424 aproximadamente 944,40 = Alternativa (C).
+
+
+
+
+
+
